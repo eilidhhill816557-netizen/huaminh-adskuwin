@@ -1,2 +1,2 @@
-# huaminh-adskuwin
-index.html
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script type="text/javascript" src="https://vpcs.kingmarketing.vn/libary.js?v=K35QAL9"></script>
